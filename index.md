@@ -7,3 +7,9 @@ I am learning to add headings into the markdown files and also making pull reque
 ``` javascript
 var myVar = "Hello, world!";
 ```
+``` python
+hi = 'hello, world!'
+```
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
